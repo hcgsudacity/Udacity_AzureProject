@@ -7,7 +7,7 @@
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
 - *Justify your choice*
 
-After assessment, an App service was chosen, due to the current use case, when there's primarily no need for high performance compute service, allowing developer to focus on the application, and worrying less about the OS level.
+After assessment, an App service was chosen, due to the current use case, when there's primarily no need for high performance compute service, and a simple app is being created, allowing developer to focus on the application, and worrying less about the OS level.
 
 ### Assess app changes that would change your decision.
 
