@@ -13,4 +13,4 @@ After assessment, an App service was chosen, due to the current use case, when t
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
-Decision would probably change, when there would be a higher usage demand of the application, which would require changes on the compute or memory of the underlying infrastructure.
+Decision would probably change, when there would be a higher usage demand of the application, which would require changes on the compute or memory of the underlying infrastructure. Another possible scenario of rethinking the chosen app, is when use case evolve into sending the records and attachment to another application or further processing.
